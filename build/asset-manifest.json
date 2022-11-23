@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a7f215b8.css",
+    "main.js": "./static/js/main.7a3fdc3d.js",
+    "static/media/IEL22.txt": "./static/media/IEL22.9bf418a2661895000f62.txt",
+    "static/media/NZL21.txt": "./static/media/NZL21.9bf418a2661895000f62.txt",
+    "static/media/WGI-logo.png": "./static/media/WGI-logo.bd9aa41ea675edb851a0.png",
+    "static/media/Logo.png": "./static/media/Logo.6d3382108e3e99587921.png",
+    "static/media/NZ_Scrabble_Logo.png": "./static/media/NZ_Scrabble_Logo.ad99ae630c538e006805.png",
+    "index.html": "./index.html",
+    "static/media/square-plus-solid.svg": "./static/media/square-plus-solid.6fa474721f5afc5a6a51b9fd2dc77b30.svg",
+    "static/media/circle-check-solid.svg": "./static/media/circle-check-solid.5a0a9c8c85b71f9e4f834864e0e3ef39.svg",
+    "static/media/exclamation.svg": "./static/media/exclamation.8778c615b4ff1793d047f5dd72c42e5a.svg",
+    "static/media/caret-down.svg": "./static/media/caret-down.13b09979a600f9a0f8c99ffec0d5bc4d.svg",
+    "static/media/chevron-right-solid.svg": "./static/media/chevron-right-solid.a2c5c6017621c52e9ff947a53974f85b.svg",
+    "main.a7f215b8.css.map": "./static/css/main.a7f215b8.css.map",
+    "main.7a3fdc3d.js.map": "./static/js/main.7a3fdc3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f215b8.css",
+    "static/js/main.7a3fdc3d.js"
+  ]
+}
